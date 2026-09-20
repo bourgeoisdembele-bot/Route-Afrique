@@ -1,0 +1,11 @@
+{
+  "name": "route-afrique",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simulateur de poids lourds en Afrique",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}
